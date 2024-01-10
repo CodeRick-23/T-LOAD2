@@ -28,9 +28,9 @@ echo -e "\e[1m\e[31m\
                           ╚═╝          ╚══════╝ ╚═════╝   ╚═╝  ╚═  ╚═════╝  ╚══════╝v 1.1
                                         !!! Dont't be evil be a cracker !!!"
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mDarkY \e[1m\e[32m░▒▓▇▆▅▄▃▂"
-echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31myoutube-CodeRick-23\e[1m\e[32m]<----------"  
+echo -e  "                           \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mDarkY \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo "                                   -------------------------"
+echo -e  "                         \e[1m\e[32m--------->[\e[31myoutube-CodeRick-23\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
