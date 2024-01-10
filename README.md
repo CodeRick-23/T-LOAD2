@@ -24,7 +24,7 @@ $ git clone https://github.com/CodeRick-23/T-LOAD2
 $ ls
 ```
 ```
-$ cd T-LOAD
+$ cd T-LOAD2
 ```
 ```
 $ ls
