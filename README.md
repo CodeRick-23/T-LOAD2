@@ -1,8 +1,8 @@
-# Expert Anonymous
+# CodeRick-23 
 ![](PicsArt_02-17-08.04.26.jpg)
 
 
-### T-LOAD is available for
+### T-LOAD2 is available for
 
 * Termux
 
@@ -30,7 +30,7 @@ $ cd T-LOAD2
 $ ls
 ```
 ```
-$ bash t-load.sh
+$ bash t-load2.sh
 ```
 ```
 * Now make sue that you internet connection is on and after that the installation starts automatically
@@ -57,7 +57,7 @@ bash rvt.sh
 ```
 
 ### Subscribe our channel on youtube
-Youtube channel = Expert Anonymous
+Youtube channel = 
      
 ### Warning
 
