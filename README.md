@@ -8,6 +8,7 @@
 
 ### Installation and usage guide
 ```
+```
 $ apt-get update -y
 ```
 ```
@@ -47,7 +48,7 @@ Now you can see a new loading screen of termux and you can feel real hacking ter
 To revert/to get back into normal termux mode use this commands
 ```
 ```
-cd T-LOAD
+cd T-LOAD2
 ```
 ls
 ```
@@ -56,7 +57,7 @@ bash rvt.sh
 ```
 
 ### Subscribe our channel on youtube
-Youtube channel = 
+Youtube channel = Expert Anonymous
      
 ### Warning
 
