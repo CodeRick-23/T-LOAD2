@@ -18,7 +18,7 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/CodeRick-23/T-LOAD
+$ git clone https://github.com/CodeRick-23/T-LOAD2
 ```
 ```
 $ ls
